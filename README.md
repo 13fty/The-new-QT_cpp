@@ -4,7 +4,8 @@
 [![Platform](https://img.shields.io/badge/Platform-macOS-blue.svg)](https://www.apple.com/macos/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-一个基于Qt C++开发的智能宿舍管理系统，采用贪心算法进行最优宿舍分配。（文件已重构）
+一个基于Qt C++开发的智能宿舍管理系统，采用贪心算法进行最优宿舍分配。
+（文件二次发布，经重构后，发布新版本过于麻烦😂）
 
 ## ✨ 功能特性
 
