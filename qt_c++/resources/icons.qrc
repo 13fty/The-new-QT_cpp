@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/login.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/add.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/list.png</file>
+        <file>icons/assign.png</file>
+        <file>icons/register.png</file>
+        <file>icons/users.png</file>
+        <file>icons/preferences.png</file>
+        <file>icons/about.png</file>
+        <file>icons/guide.png</file>
+        <file>icons/info.png</file>
+        <file>image/chat.png</file>
+        <file>image/bunk-bed.png</file>
+        <file>image/dorm.png</file>
+    </qresource>
+</RCC>
